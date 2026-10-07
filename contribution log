@@ -1,0 +1,46 @@
+AI CONTRIBUTION LOG
+
+Project
+
+Knight's Shortest Path — BFS vs DFS
+
+Student Details
+
+- Name: SUYASH MALI
+- PRN: 25UAM107
+- Course: 02AML204 – Introduction to Artificial Intelligence
+- Division: B
+
+1. AI Tool Used
+
+AI Tool: Claude (Anthropic)
+
+2. How AI Helped
+
+AI assistance was used during the development of the Knight's Shortest Path project for:
+
+- Understanding and implementing the BFS and DFS search algorithms.
+- Supporting the timing and node-counting part of the experiment.
+- Helping with ideas for path visualization.
+- Organizing and structuring the project documentation and report.
+- Understanding how the system can be represented using the C4 architecture model.
+
+3. My Contribution
+
+I personally:
+
+- Selected the Knight's Shortest Path problem for the project.
+- Selected the start position a1 and goal position h8.
+- Reviewed and ran the BFS and DFS experiments.
+- Checked the reported execution times, nodes expanded, and path lengths.
+- Reviewed the generated architecture and design decisions.
+- Understood and verified the working of the system.
+- Prepared and reviewed the final project documentation.
+
+4. Verification
+
+The AI-generated suggestions were not used blindly. I reviewed the code, ran the experiments, checked the results, and used my understanding of the project to prepare the final architecture and documentation.
+
+5. Declaration
+
+I acknowledge the use of AI assistance during this project. AI was used as a supporting tool for coding, experimentation, visualization ideas, and documentation. The final work was reviewed and understood by me.
